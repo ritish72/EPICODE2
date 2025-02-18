@@ -1,0 +1,8 @@
+quando un dispositivo di una rete vuole inviare 
+un pacchetto ad un altro dispositivo di un'altra rete
+questo lo invia allo switch della sua rete, a sua volta 
+fa arrivare il pacchetto al router che grazie al router table capisce a chi deve inviare il pacchetto.
+per fare tutto ciò il router si serve dei router gateway, che sono delle porte specifiche a cui
+si collegano gli switch di reti diverse per riuscire a comunicare tra di loro, permettendo così al pacchetto 
+di passare da una retet all'altra senza alcun problema.
+ 
